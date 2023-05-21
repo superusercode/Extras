@@ -1,6 +1,6 @@
 {
     "version": "20221201-1017",
-    "description": "ImageJ distribution with many plugins which facilitating scientific image analysis.",
+    "description": "A distribution of ImageJ2 that bundles plugins that facilitate scientific image analysis.",
     "homepage": "https://fiji.sc/",
     "license": "GPL-3.0-or-later",
     "architecture": {
